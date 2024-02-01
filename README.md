@@ -1,5 +1,8 @@
 # Database-Normalization-and-Creation
 A project showcasing the development of database blueprints and the SQL to create them.
+
+All company names and personal identities referenced in this project are purely fictitious and any resemblance to real entities is entirely coincidental.
+
 This project will display competencies in the following areas:
 1. Conceptual Models to Physical Schemas: Create conceptual data models and translate them into physical schemas.
 2. Create Databases: Create databases utilizing SQL Data Definition Language (DDL) in MySQL environment.
@@ -9,10 +12,10 @@ This project will display competencies in the following areas:
 6. Create Simple and Complex Queries: Create simple Select-From-Where (SFW) and complex 3+ table join queries with Data Manipulation Language (DML) in MySQL environment.
 
 Part I
-Database Normalization
-In this part of the project I will take the database from 1st normal form to 2nd normal form, then to 3rd normal form. After that I will create a final physical database model before I work in MySQL to actually create the database.
+Database Normalization for Nora's Bagle Bin
+In this part of the project I will take the database from 1st normal form to 2nd normal form, then to 3rd normal form. After that I will create a final physical database model for Nora's Bagle Bin. 
 
 Part II
-Database Creation with MySQL
-This section will be used to display the use of SQL in MySQL to create a database. 
+Database Creation with MySQL for Jaunty Coffee Company
+This section will be used to display the use of SQL in MySQL to create a database, tables, and perform queries.  
 
