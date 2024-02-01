@@ -1,5 +1,5 @@
 # Database-Normalization-and-Creation
-A project showcasing the development of database blueprints and the SQL to create them.
+A project showcasing the development of database blueprints and the use of SQL to create them.
 
 All company names and personal identities referenced in this project are purely fictitious and any resemblance to real entities is entirely coincidental.
 
