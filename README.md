@@ -1,4 +1,4 @@
-# Database-Normalization-and-Creation
+# Database Normalization and Creation
 
 ### Project Description
 A project showcasing the development of database blueprints and the use of SQL to create them.
@@ -23,7 +23,7 @@ In this part of the project I will take the database from 1st normal form to 2nd
 
 ### Part II
 Database Creation with MySQL for Jaunty Coffee Company
-This section will be used to display the use of SQL in MySQL to create a database, tables, and perform queries.  
+This section will be used to display the use of SQL in MySQL Workbench to create a database, tables, and perform queries.  
 
 ### Files
 Data_Normalization.pdf: A pdf showing the normalization process followed
