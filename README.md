@@ -7,7 +7,6 @@ All company names and personal identities referenced in this project are purely 
 
 ### Environment(s)
 
-Microsoft Word
 MySQL Workbench
 
 ### Competencies
