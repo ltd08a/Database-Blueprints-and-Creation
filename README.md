@@ -9,6 +9,10 @@ All company names and personal identities referenced in this project are purely 
 
 MySQL Workbench
 
+### Language(s)
+
+MySQL
+
 ### Competencies
 1. Conceptual Models to Physical Schemas: Create conceptual data models and translate them into physical schemas.
 2. Create Databases: Create databases utilizing SQL Data Definition Language (DDL) in MySQL environment.
