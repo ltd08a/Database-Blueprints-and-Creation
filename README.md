@@ -5,6 +5,11 @@ A project showcasing the development of database blueprints and the use of SQL t
 
 All company names and personal identities referenced in this project are purely fictitious and any resemblance to real entities is entirely coincidental.
 
+### Environment(s)
+
+Microsoft Word
+MySQL Workbench
+
 ### Competencies
 1. Conceptual Models to Physical Schemas: Create conceptual data models and translate them into physical schemas.
 2. Create Databases: Create databases utilizing SQL Data Definition Language (DDL) in MySQL environment.
