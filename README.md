@@ -30,5 +30,6 @@ Database Creation with MySQL for Jaunty Coffee Company
 This section will be used to display the use of SQL in MySQL Workbench to create a database, tables, and perform queries.  
 
 ### Files
-Data_Normalization.pdf: A pdf showing the normalization process followed
-Database_Creation_and_Queries.sql: The SQL file used to create the database, populate the tables, and perform queries
+Data_Normalization.pdf: A pdf showing the normalization process followed.  
+Database_Creation_and_Queries.sql: The SQL file used to create the database, populate the tables, and perform queries.  
+README.md: A file describing the details of the project.
